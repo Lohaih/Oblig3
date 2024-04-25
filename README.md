@@ -3,7 +3,7 @@ OsloMet brukernavn: lohoa3923
 
 Github brukernavn: Lohaih
 
-Github repo URL: 
+Github repo URL: https://github.com/Lohaih/Oblig3
 
 Youtube video: https://youtu.be/eTlXZ3zSLaE
 
